@@ -1,0 +1,2 @@
+Ini adalah resolusi saya :
+- Membuat project e-commerce menggunakan Laravel
