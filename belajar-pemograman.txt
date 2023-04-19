@@ -1,0 +1,7 @@
+Belajar bahasa pemograman 2023
+
+- PHP Framework
+  ^ Laravel
+  ^ Code Igniter
+- Java Script 
+  ^ React.js
